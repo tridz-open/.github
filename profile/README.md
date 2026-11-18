@@ -7,7 +7,7 @@ Open-source projects by [Tridz Technologies](https://tridz.com).
 
 ## Projects
 
-- **[Frappe SaaS](https://tridz-open.github.io/frappe-saaskit/)**: launch your Frappe app as SaaS on Frappe Cloud. Three repos, with a [docs site](https://tridz-open.github.io/frappe-saaskit/) ([source](https://github.com/tridz-open/frappe-saaskit)):
+- **[Frappe SaaS](https://frappesaas.tridz.in/)**: launch your Frappe app as SaaS on Frappe Cloud. Three repos, with a [docs site](https://frappesaas.tridz.in/) ([source](https://github.com/tridz-open/frappe-saaskit)):
   - [`saas_core`](https://github.com/tridz-open/saas_core): Frappe v16 control plane for plans, signup, billing, provisioning, and a versioned HTTP API. Includes the TypeScript SDK.
   - [`fcctl`](https://github.com/tridz-open/fcctl): CLI and Python library for Frappe Cloud v2.
   - [`frappe-saaskit-starter`](https://github.com/tridz-open/frappe-saaskit-starter): React front end (landing, pricing, signup, checkout, customer console).
